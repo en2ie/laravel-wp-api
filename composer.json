@@ -1,5 +1,5 @@
 {
-    "name": "en2ie/laravel-wp-api",
+    "name": "threesquared/laravel-wp-api",
     "description": "Laravel package for the Wordpress JSON REST API",
     "keywords": ["laravel", "package", "wordpress", "API", "REST"],
     "license": "MIT",
